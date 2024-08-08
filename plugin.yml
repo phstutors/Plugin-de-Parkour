@@ -1,0 +1,6 @@
+name: "ParkourV1"
+api: 2.0.0
+main: Parkour\Main
+version: 1.0.0
+author: "PhsTutors"
+website: "https://www.github.com/phstutors"
